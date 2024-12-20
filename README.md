@@ -16,7 +16,7 @@
    - [Violentmonkey](https://violentmonkey.github.io/)（支持 Chrome、Microsoft Edge、Firefox）
 
 2. 安装用户脚本管理器后，点击下面的链接安装本脚本：
-   [安装豆瓣 NeoDB 助手](https://github.com/aooyoo/douban-neodb-userscript/douban-neodb-userscript.js)
+   [安装豆瓣 NeoDB 助手](https://raw.githubusercontent.com/aooyoo/douban-neodb-userscript/refs/heads/main/douban-neodb-userscript.js)
 
 ## 使用方法
 
